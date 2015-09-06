@@ -1,0 +1,17 @@
+.root {
+	 text-align: center;
+}
+
+.reg-form-block {
+	margin: 50px auto;
+	float:none;
+}
+
+.reg-form-block.h1 {
+	text-align: center;
+}
+
+input {
+	margin: 0 0 10px 0;
+}
+
