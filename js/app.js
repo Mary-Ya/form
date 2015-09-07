@@ -25,7 +25,7 @@ var RegForm = React.createClass({
   },
   handleSubmit: function(e) {
 
-    // TODO: Где-то здаь будет валидация и отправка данных
+    // TODO: Где-то здесь будет валидация и отправка данных
 
     e.preventDefault();
     var newUser = {login: this.state.login, password:this.state.password}
